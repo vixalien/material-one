@@ -1,0 +1,57 @@
+{
+  "name": "material-one",
+  "version": "1.0.0",
+  "description": "A package to provide all @material/react-* packages",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vixalien/material-one.git"
+  },
+  "keywords": [
+    "material",
+    "material-ui",
+    "react",
+    "components"
+  ],
+  "author": "vixalien",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vixalien/material-one/issues"
+  },
+  "dependencies": {
+    "@material/react-button": "latest",
+    "@material/react-card": "latest",
+    "@material/react-checkbox": "latest",
+    "@material/react-chips": "latest",
+    "@material/react-dialog": "latest",
+    "@material/react-drawer": "latest",
+    "@material/react-fab": "latest",
+    "@material/react-floating-label": "latest",
+    "@material/react-icon-button": "latest",
+    "@material/react-layout-grid": "latest",
+    "@material/react-line-ripple": "latest",
+    "@material/react-linear-progress": "latest",
+    "@material/react-list": "latest",
+    "@material/react-material-icon": "latest",
+    "@material/react-menu": "latest",
+    "@material/react-menu-surface": "latest",
+    "@material/react-notched-outline": "latest",
+    "@material/react-radio": "latest",
+    "@material/react-ripple": "latest",
+    "@material/react-select": "latest",
+    "@material/react-snackbar": "latest",
+    "@material/react-switch": "latest",
+    "@material/react-tab": "latest",
+    "@material/react-tab-bar": "latest",
+    "@material/react-tab-indicator": "latest",
+    "@material/react-tab-scroller": "latest",
+    "@material/react-text-field": "latest",
+    "@material/react-top-app-bar": "latest",
+    "@material/react-typography": "latest"
+  },
+  "peerDependecies": {
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  },
+  "homepage": "https://github.com/vixalien/material-one#readme"
+}
